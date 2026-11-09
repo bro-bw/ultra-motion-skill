@@ -1,0 +1,12 @@
+test_invalid_range_and_weight (__main__.ReferenceTests.test_invalid_range_and_weight) ... ok
+test_mask_retains_legs_and_anchors (__main__.ReferenceTests.test_mask_retains_legs_and_anchors) ... ok
+test_opposite_rejected (__main__.ReferenceTests.test_opposite_rejected) ... ok
+test_phase_sampling_and_full_weight (__main__.ReferenceTests.test_phase_sampling_and_full_weight) ... ok
+test_preserves_base_segment_lengths (__main__.ReferenceTests.test_preserves_base_segment_lengths) ... ok
+test_selected_range_and_fade (__main__.ReferenceTests.test_selected_range_and_fade) ... ok
+test_zero_weight_identity (__main__.ReferenceTests.test_zero_weight_identity) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.033s
+
+OK

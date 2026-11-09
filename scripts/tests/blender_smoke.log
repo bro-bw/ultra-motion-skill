@@ -1,0 +1,4 @@
+UMS_SMOKE_PASS {"blender": "4.2.0", "max_stationary_foot_drift": 0, "report": {"frames": 90, "fps": 30, "repaired_landmarks": 0, "locked_foot_frames": 180, "unreachable_foot_frames": 0, "mapping": {"spine": "spine", "left_upper_arm": "left_upper_arm", "left_forearm": "left_forearm", "left_thigh": "left_thigh", "left_shin": "left_shin", "right_upper_arm": "right_upper_arm", "right_forearm": "right_forearm", "right_thigh": "right_thigh", "right_shin": "right_shin"}, "smoothing": 0.65, "foot_lock": true, "loop": false}}
+Blender 4.2.0 (hash a51f293548ad built 2024-07-16 06:29:33)
+
+Blender quit

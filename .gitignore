@@ -1,0 +1,48 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*_env/
+.pytest_cache/
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Models, user media, generated scenes and motion files
+*.task
+*.onnx
+*.pt
+*.pth
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.blend
+*.blend[0-9]*
+*.pmx
+*.pmd
+*.vmd
+*.vpd
+*.fbx
+*.bvh
+*.pmm
+*.report.json
+*.zip
+work/
+outputs/
+dist/
+
+# Keep the curated historical logs already shipped with the skill.
+*.log
+!scripts/tests/core_tests.log
+!scripts/tests/reference_tests.log
+!scripts/tests/blender_smoke.log
+!scripts/tests/blender_reference.log
+!scripts/tests/video_pipeline.log

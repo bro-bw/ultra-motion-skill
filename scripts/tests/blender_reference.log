@@ -1,0 +1,4 @@
+UMS_REFERENCE_PASS {"blender": "4.2.0", "sampled_frames": 72, "mixed_frames": 90, "channels": 36, "tests": ["hip recenter", "unit scale", "facing yaw", "evaluated constraints", "sample-mix-rebake"]}
+Blender 4.2.0 (hash a51f293548ad built 2024-07-16 06:29:33)
+
+Blender quit

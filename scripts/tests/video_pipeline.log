@@ -1,0 +1,9 @@
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1794205113.293231   30840 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1794205113.306320   30840 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1794205113.332535   36216 landmark_projection_calculator.cc:81] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+E0000 00:00:1794205113.732446   34164 portable_clearcut_uploader.cc:90] Failed to send to clearcut: INTERNAL: ResponseInfo[id: 1, type: 0, code: 2, description: "Status_ConnectFailed: 12029", headers: ]
+=== Source Location Trace: === 
+wireless/android/play/playlog/cplusplus/ion_http_client.cc:44
+Saved <local-workspace>/static_pose.json frames: 30 missing: 0
+VIDEO_PIPELINE_PASS {"mediapipe": "0.10.35", "opencv": "4.14.0", "frames": 30, "fps": 30.0, "repaired_landmarks": 0, "source": "Official MediaPipe still image repeated into a 30-frame AVI; not a real motion quality test"}

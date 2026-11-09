@@ -1,0 +1,14 @@
+test_bad_fps_rejected (__main__.CoreTests.test_bad_fps_rejected) ... ok
+test_default_and_stationary_contacts (__main__.CoreTests.test_default_and_stationary_contacts) ... ok
+test_long_gap_rejected (__main__.CoreTests.test_long_gap_rejected) ... ok
+test_missing_entire_joint_rejected (__main__.CoreTests.test_missing_entire_joint_rejected) ... ok
+test_no_smoothing_is_identity (__main__.CoreTests.test_no_smoothing_is_identity) ... ok
+test_nonfinite_rejected (__main__.CoreTests.test_nonfinite_rejected) ... ok
+test_short_gap_interpolates (__main__.CoreTests.test_short_gap_interpolates) ... ok
+test_smoothing_reduces_jitter (__main__.CoreTests.test_smoothing_reduces_jitter) ... ok
+test_unknown_coordinate_system_rejected (__main__.CoreTests.test_unknown_coordinate_system_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.024s
+
+OK
